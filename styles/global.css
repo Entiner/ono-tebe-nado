@@ -32,5 +32,8 @@ a {
 
 img {
   width: 100%;
-  
+}
+
+.no-decor {
+  text-decoration: none;
 }
